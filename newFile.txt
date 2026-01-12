@@ -1,0 +1,1 @@
+Git stable source release: 2.51.1 (released October 15, 2025) — this is currently the most recent stable version listed on the official downloads page.
